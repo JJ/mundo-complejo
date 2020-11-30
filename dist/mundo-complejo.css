@@ -3,7 +3,9 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Work+Sans:wght@500&display=swap')
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Work+Sans:wght@500&display=swap');
+
 .reveal a {
   line-height: 1.3em; }
 
@@ -50,7 +52,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal {
   font-family: "Work Sans", sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: normal;
   color: #333; }
 
@@ -88,7 +90,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   word-wrap: break-word; }
 
 .reveal h1 {
-    font-family: 'Passion One', cursive;
+    font-family: 'Fredericka the Great', cursive;
     font-size: 3.77em;
 }
 
